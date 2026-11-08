@@ -84,3 +84,4 @@ Independently developed the SQL Server database schema, FastAPI backend, HTML/Ja
 ## Note
 
 This project uses sample accounts and simulated trades. Never upload actual credentials, personal account information, private database exports, or licensed datasets.
+<img width="993" height="549" alt="資料庫前端" src="https://github.com/user-attachments/assets/5a42bb70-79ae-4e49-b79d-f2322bf4e752" />
